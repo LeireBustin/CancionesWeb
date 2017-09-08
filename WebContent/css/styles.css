@@ -1,0 +1,17 @@
+/* NUESTRA HOJA DE ESTILOS */
+
+.container{
+	width: 1024px;
+	margin: 0 auto; /*centrar en horizontal*/
+	border-left: 1px solid teal;
+	border-right: 1px solid teal;
+	min-height: 600px;
+}
+
+
+
+h1 {
+	text-align: center;
+	color: teal;
+	font-size: 26px;
+}
